@@ -34,7 +34,7 @@ export default function Home() {
             </label>
             <input
               type="text"
-              placeholder="es. FAIR-2026"
+              placeholder="XXXX-XXXX"
               className="w-full p-4 bg-slate-100 rounded-2xl border-2 border-transparent focus:border-indigo-500 outline-none transition-all text-xl font-mono"
               onChange={(e) => setCodiceCoda(e.target.value)}
             />
